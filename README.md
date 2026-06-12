@@ -208,4 +208,4 @@ This project demonstrates an end-to-end machine learning workflow for predicting
 
 ## Author
 **Aaron Thomas**
-[GitHub](https://github.com/texanoiler) | [LinkedIn](https://www.linkedin.com/in/aaron-s-thomas/)
+[GitHub](https://github.com/aaronsthom) | [LinkedIn](https://www.linkedin.com/in/aaron-s-thomas/)
